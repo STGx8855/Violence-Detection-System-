@@ -1,0 +1,12 @@
+This file contains the link to the dataset folder and the .h5 model of the Violence Detection system 
+
+The file violence train dataset uses The folder validatoion frames contains the Violence and non violence folder and which was extracted from a kaggle dataset (https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset) in which
+every 5th frame was converted to an image and the kaggle dataset is also used 
+
+The violence test dataset uses the .h5 model 
+
+https://drive.google.com/drive/folders/17czvMyPEjmXa_mg_YKLj-62UFjX1Tr0P?usp=share_link
+
+The above link has all the things 
+
+Link to kaggle dataset https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
